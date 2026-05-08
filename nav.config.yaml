@@ -49,3 +49,16 @@ mailConfig:
 
 # 自有部署
 XFAPIPassword: ''
+
+links:
+  - name: "百度"
+    url: "https://www.baidu.com"
+    icon: "https://www.baidu.com/favicon.ico"
+    group: "搜索引擎"
+    order: 1
+
+  - name: "GitHub"
+    url: "https://github.com"
+    icon: "https://github.com/fluidicon.png"
+    group: "开发工具"
+    order: 2
